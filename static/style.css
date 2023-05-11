@@ -1,0 +1,4 @@
+- As colunas Ids que forem chaves primárias simples devem ser auto numeradas de 3 em 3 iniciando em 200. A quantidade
+de produto pode variar de 1 a 3.000, já a quantidade de porção serve de 1 a 20 pessoas.
+- As colunas nome serão variáveis com até 60 caracteres. Tempo de Preparo será medido em minutos (ex. 30, 60, 90)
+com o máximo de 3 horas de duração. Modo de preparo será um texto grande limitado em 1.000 caracteres.
